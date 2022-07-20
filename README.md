@@ -1,14 +1,14 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://github.com/ndriqimlahu/NdriqimLahuPortfolio/blob/main/assets/portfolio/DoganaKosoves.png" alt="Logo" width="250" height="250">
+  <img src="https://github.com/ndriqimlahu/ndriqim-lahu-portfolio/blob/main/assets/portfolio/DoganaKosoves.png" alt="Logo" width="250" height="250">
   <h3 align="center">Dogana e Kosoves</h3>
   <p align="center">
     Ndriçim Lahu
     <br>
     <br>
-    <a href="https://github.com/ndriqimlahu/DoganaKosoves/issues">Report Bug</a>
+    <a href="https://github.com/ndriqimlahu/dogana-kosoves/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ndriqimlahu/DoganaKosoves/issues">Request Feature</a>
+    <a href="https://github.com/ndriqimlahu/dogana-kosoves/issues">Request Feature</a>
   </p>
 </p>
 
@@ -68,7 +68,7 @@ In order to open this project is required to have an IDE (Spyder) or Code Editor
 
 1. Download the code or Clone the repo:
    ```terminal
-   git clone https://github.com/ndriqimlahu/DoganaKosoves.git
+   git clone https://github.com/ndriqimlahu/dogana-kosoves.git
    ```
 2. Open the repo folder with your IDE or Code Editor.
 3. After that you can launch the project by running the programs with extension `.py` file.
@@ -86,14 +86,6 @@ There you can see some useful additional screenshots of how the project looks li
 ## License
 
 Distributed under the Apache License 2.0. See `LICENSE` for more information.
-
-
-<!-- CONTACT -->
-## Contact
-
-**LinkedIn:** https://www.linkedin.com/in/ndriçimlahu
-
-**Mail:** ndriqim_lahu@hotmail.com
 
 
 <!-- SUPPORT -->
