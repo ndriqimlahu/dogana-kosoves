@@ -78,24 +78,59 @@ In order to open this project is required to have an IDE (Spyder) or Code Editor
 
 There you can see some useful additional screenshots of how the project looks like and how can be used.
 
-<img src="https://github.com/ndriqimlahu/dogana-kosoves/blob/main/Preview/01-Leximi%20i%20fajllit%20nga%20Dogana%20e%20Kosoves.png">
-<img src="https://github.com/ndriqimlahu/dogana-kosoves/blob/main/Preview/02-Shuma%20e%20sasise%20(te%20hyrave)%20te%20realizura%20sipas%20vitit.png">
-<img src="https://github.com/ndriqimlahu/dogana-kosoves/blob/main/Preview/03-Shuma%20e%20taks%C3%ABs%20s%C3%AB%20akciz%C3%ABs%20sipas%20vitit%20dhe%20muajit.png">
-<img src="https://github.com/ndriqimlahu/dogana-kosoves/blob/main/Preview/04-Shuma%20e%20vlerave%20t%C3%AB%20mall%C3%ABrave%20t%C3%AB%20ndaluara%20nga%20Dogana.png">
-<img src="https://github.com/ndriqimlahu/dogana-kosoves/blob/main/Preview/05-Vlera%20mesatare%20p%C3%ABr%20peshat%20neto.png">
-<img src="https://github.com/ndriqimlahu/dogana-kosoves/blob/main/Preview/06-Importet%20apo%20t%C3%AB%20hyrat%20e%20produkteve%20unike%20nga%20Dogana.png">
-<img src="https://github.com/ndriqimlahu/dogana-kosoves/blob/main/Preview/07-Top%20shtetet%20nga%20t%C3%AB%20cilat%20b%C3%ABhet%20importi%20me%20sasi.png">
-<img src="https://github.com/ndriqimlahu/dogana-kosoves/blob/main/Preview/08-Fshirja%20e%20disa%20kolonave%20t%C3%AB%20caktuara.png">
-<img src="https://github.com/ndriqimlahu/dogana-kosoves/blob/main/Preview/09-Grupimi%20sipas%20shteteve%2C%20mbledhja%20dhe%20sortimi%20sipas%20taks%C3%ABs%20s%C3%AB%20dogan%C3%ABs.png">
-<img src="https://github.com/ndriqimlahu/dogana-kosoves/blob/main/Preview/10-Grafiku%20sipas%20taks%C3%ABs%20s%C3%AB%20dogan%C3%ABs%2C%20akciz%C3%ABs%20dhe%20tvsh-s%C3%AB.png">
-<img src="https://github.com/ndriqimlahu/dogana-kosoves/blob/main/Preview/11-Grafiku%20sipas%20sasis%C3%AB%2C%20vler%C3%ABs%20s%C3%AB%20mallrave%20dhe%20pesh%C3%ABs%20neto.png">
-<img src="https://github.com/ndriqimlahu/dogana-kosoves/blob/main/Preview/12-P%C3%ABrqindja%20nga%20taksa%20tvsh-s%C3%AB%20e%20grumbulluar%20sipas%20muajve%20t%C3%AB%20vitit.png">
-<img src="https://github.com/ndriqimlahu/dogana-kosoves/blob/main/Preview/13-P%C3%ABrqindja%20e%20taksave%20dhe%20vler%C3%ABs%20s%C3%AB%20mallrave%20n%C3%AB%20total.png">
-<img src="https://github.com/ndriqimlahu/dogana-kosoves/blob/main/Preview/14-P%C3%ABrqindja%20e%20vler%C3%ABs%20s%C3%AB%20mallrave%20dhe%20pesh%C3%ABs%20neto%20n%C3%AB%20total%20p%C3%ABr%204%20mujorin%20e%20vitit%202021.png">
-<img src="https://github.com/ndriqimlahu/dogana-kosoves/blob/main/Preview/15.1-Paraqitja%20e%203%20grafeve%20p%C3%ABr%20taksat%20n%C3%AB%20nj%C3%AB%20figur%C3%AB.png">
-<img src="https://github.com/ndriqimlahu/dogana-kosoves/blob/main/Preview/15.2-Paraqitja%20e%203%20grafeve%20p%C3%ABr%20taksat%20n%C3%AB%20nj%C3%AB%20figur%C3%AB.png">
-<img src="https://github.com/ndriqimlahu/dogana-kosoves/blob/main/Preview/15.3-Paraqitja%20e%203%20grafeve%20p%C3%ABr%20taksat%20n%C3%AB%20nj%C3%AB%20figur%C3%AB.png">
-<img src="https://github.com/ndriqimlahu/dogana-kosoves/blob/main/Preview/16-Paraqitja%20e%20taksave%20n%C3%AB%20nj%C3%AB%20grafik%20t%C3%AB%20vet%C3%ABm.png">
+* Leximi i fajllit nga Dogana e Kosoves
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dogana-kosoves/main/Preview/01-Leximi%20i%20fajllit%20nga%20Dogana%20e%20Kosoves.png">
+
+* Shuma e sasise (te hyrave) te realizura sipas vitit
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dogana-kosoves/main/Preview/02-Shuma%20e%20sasise%20(te%20hyrave)%20te%20realizura%20sipas%20vitit.png">
+
+* Shuma e taksës së akcizës sipas vitit dhe muajit
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dogana-kosoves/main/Preview/03-Shuma%20e%20taks%C3%ABs%20s%C3%AB%20akciz%C3%ABs%20sipas%20vitit%20dhe%20muajit.png">
+
+* Shuma e vlerave të mallërave të ndaluara nga Dogana
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dogana-kosoves/main/Preview/04-Shuma%20e%20vlerave%20t%C3%AB%20mall%C3%ABrave%20t%C3%AB%20ndaluara%20nga%20Dogana.png">
+
+* Vlera mesatare për peshat neto
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dogana-kosoves/main/Preview/05-Vlera%20mesatare%20p%C3%ABr%20peshat%20neto.png">
+
+* Importet apo të hyrat e produkteve unike nga Dogana
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dogana-kosoves/main/Preview/06-Importet%20apo%20t%C3%AB%20hyrat%20e%20produkteve%20unike%20nga%20Dogana.png">
+
+* Top shtetet nga të cilat bëhet importi me sasi
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dogana-kosoves/main/Preview/07-Top%20shtetet%20nga%20t%C3%AB%20cilat%20b%C3%ABhet%20importi%20me%20sasi.png">
+
+* Fshirja e disa kolonave të caktuara
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dogana-kosoves/main/Preview/08-Fshirja%20e%20disa%20kolonave%20t%C3%AB%20caktuara.png">
+
+* Grupimi sipas shteteve, mbledhja dhe sortimi sipas taksës së doganës
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dogana-kosoves/main/Preview/09-Grupimi%20sipas%20shteteve%2C%20mbledhja%20dhe%20sortimi%20sipas%20taks%C3%ABs%20s%C3%AB%20dogan%C3%ABs.png">
+
+* Grafiku sipas taksës së doganës, akcizës dhe tvsh-së
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dogana-kosoves/main/Preview/10-Grafiku%20sipas%20taks%C3%ABs%20s%C3%AB%20dogan%C3%ABs%2C%20akciz%C3%ABs%20dhe%20tvsh-s%C3%AB.png">
+
+* Grafiku sipas sasisë, vlerës së mallrave dhe peshës neto
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dogana-kosoves/main/Preview/11-Grafiku%20sipas%20sasis%C3%AB%2C%20vler%C3%ABs%20s%C3%AB%20mallrave%20dhe%20pesh%C3%ABs%20neto.png">
+
+* Përqindja nga taksa tvsh-së e grumbulluar sipas muajve të vitit
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dogana-kosoves/main/Preview/12-P%C3%ABrqindja%20nga%20taksa%20tvsh-s%C3%AB%20e%20grumbulluar%20sipas%20muajve%20t%C3%AB%20vitit.png">
+
+* Përqindja e taksave dhe vlerës së mallrave në total
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dogana-kosoves/main/Preview/13-P%C3%ABrqindja%20e%20taksave%20dhe%20vler%C3%ABs%20s%C3%AB%20mallrave%20n%C3%AB%20total.png">
+
+* Përqindja e vlerës së mallrave dhe peshës neto në total për 4 mujorin e vitit 2021
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dogana-kosoves/main/Preview/14-P%C3%ABrqindja%20e%20vler%C3%ABs%20s%C3%AB%20mallrave%20dhe%20pesh%C3%ABs%20neto%20n%C3%AB%20total%20p%C3%ABr%204%20mujorin%20e%20vitit%202021.png">
+
+* Paraqitja e 3 grafeve për taksat në një figurë
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dogana-kosoves/main/Preview/15.1-Paraqitja%20e%203%20grafeve%20p%C3%ABr%20taksat%20n%C3%AB%20nj%C3%AB%20figur%C3%AB.png">
+
+* Paraqitja e 3 grafeve për taksat në një figurë
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dogana-kosoves/main/Preview/15.2-Paraqitja%20e%203%20grafeve%20p%C3%ABr%20taksat%20n%C3%AB%20nj%C3%AB%20figur%C3%AB.png">
+
+* Paraqitja e 3 grafeve për taksat në një figurë
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dogana-kosoves/main/Preview/15.3-Paraqitja%20e%203%20grafeve%20p%C3%ABr%20taksat%20n%C3%AB%20nj%C3%AB%20figur%C3%AB.png">
+
+* Paraqitja e taksave në një grafik të vetëm
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dogana-kosoves/main/Preview/16-Paraqitja%20e%20taksave%20n%C3%AB%20nj%C3%AB%20grafik%20t%C3%AB%20vet%C3%ABm.png">
 
 
 <!-- COPYRIGHT -->
