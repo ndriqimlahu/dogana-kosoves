@@ -31,7 +31,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#copyright">Copyright</a></li>
+    <li><a href="#license">License</a></li>
     <li><a href="#support">Support</a></li>
   </ol>
 </details>
@@ -133,10 +133,10 @@ There you can see some useful additional screenshots of how the project looks li
 <img src="https://raw.githubusercontent.com/ndriqimlahu/dogana-kosoves/main/Preview/16-Paraqitja%20e%20taksave%20n%C3%AB%20nj%C3%AB%20grafik%20t%C3%AB%20vet%C3%ABm.png">
 
 
-<!-- COPYRIGHT -->
-## Copyright
+<!-- LICENSE -->
+## License
 
-See the `COPYRIGHT` file for more information.
+See the `LICENSE` file for more information.
 
 
 <!-- SUPPORT -->
