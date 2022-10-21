@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <img src="https://github.com/ndriqimlahu/ndriqim-lahu-portfolio/blob/main/assets/portfolio/DoganaKosoves.png" alt="Logo" width="250" height="250">
-  <h3 align="center">Dogana e Kosoves</h3>
+  <h3 align="center">Dogana e Kosovës</h3>
   <p align="center">
     Ndriçim Lahu
     <br>
@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The project called `Dogana e Kosoves` is a data analysis and visualization project where are showed the open data which are analyzed and visualized based on the trade balance according to a certain year, it is also worth mentioning that Kosovo Customs for each year compiles an annual report which contains the main data on developments in Customs during that year. These annual reports are the best form of transparency, because the whole activity is summarized in a single report which is made public. In this project you can navigate into two types of program which are “DoganaKosoves_DataAnalysis” and “DoganaKosoves_DataVisualization”.
+The project called `Dogana e Kosovës` is a data analysis and visualization project where are showed the open data which are analyzed and visualized based on the trade balance according to a certain year, it is also worth mentioning that Kosovo Customs for each year compiles an annual report which contains the main data on developments in Customs during that year. These annual reports are the best form of transparency, because the whole activity is summarized in a single report which is made public. In this project you can navigate into two types of program which are “DoganaKosoves_DataAnalysis” and “DoganaKosoves_DataVisualization”.
 
 This project started from scratch where I worked and completed, also I made some improvements in the back-end side of Data Analysis and Visualization, such as the importing of the required libraries and reading file, converting of the data from strings to numeric, analysis of the customs statistical data, visualizations of the customs statistical data, graph presentation and doing many more things.
 
