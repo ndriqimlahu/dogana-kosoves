@@ -8,7 +8,7 @@ import pandas as pd
 from numpy import *
 import numpy as np
 
-#DoganaKosoves_DataAnalysis
+#DataAnalysis
 
 doganaData = pd.read_csv('Open_Data_Import_2021.csv')
 print ("Leximi i fajllit nga Dogana e Kosovës:\n", doganaData)

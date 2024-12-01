@@ -8,7 +8,7 @@ import pandas as pd
 from matplotlib.pyplot import figure, plot, bar, pie, draw, scatter
 import matplotlib.pyplot as plt
 
-#DoganaKosoves_DataVisualization
+#DataVisualization
 
 doganaData = pd.read_csv('Open_Data_Import_2021.csv')
 print ("Leximi i fajllit nga Dogana e Kosovës:\n", doganaData)
